@@ -1,15 +1,3 @@
-#!/usr/bin/env python3
-"""
-SRPT Job Scheduling Algorithm
-CSCE500 – Algorithm Design & Analysis – Spring 2026
-Project 2: Job Scheduling
-
-This implementation minimizes total completion time using the 
-Shortest Remaining Processing Time (SRPT) algorithm.
-
-Author: [Your Name]
-GitHub: [Your GitHub Repository Link]
-"""
 
 import heapq
 from typing import List, Tuple
